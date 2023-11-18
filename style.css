@@ -1,0 +1,136 @@
+body {
+  background-image: url('background.png');
+  background-repeat: no-repeat;
+}
+.rightphoto {
+  float: right;
+  height: 630px;
+  margin-right: 60px;
+  margin-top: 10px;
+}
+.container {
+  
+  height: 620px;
+  width: 670px;
+  
+}
+.logo {
+  height: 80px;
+  width: auto;
+  margin-left: 40px;
+  margin-top: 15px;
+  display: inline-block;
+  vertical-align: top;
+}
+.container1 {
+  display: inline-block;
+  height: 140px;
+  width: 520px;
+  vertical-align: middle;
+}
+.codecraft {
+  color: white;
+  font-family: Lilita One;
+  font-size: 63px;
+  margin-top: 0%;
+  margin-left: 60px;
+  margin-bottom: 0px;
+}
+.mastering {
+  color: white;
+  font-family: Arial;
+  font-size: 30px;
+  margin-top: 0px;
+  margin-left: 25px;
+}
+.container2 {
+  height: 470px;
+  width: 450px;
+  margin-left: 120px;
+  justify-content: flex-start;
+}
+.learn {
+  color: white;
+  font-size: 20px;
+  margin-top: 35px;
+  text-align: center;
+  font-family: Arial;
+  margin-left: 20px;
+}
+.image {
+
+  height: 300px;
+  width: 100px;
+  margin-left: 100px;
+  display: inline-block;
+
+}
+.image1 {
+  height: 80px;
+  display: block;
+  margin-top: 15px;
+  
+  
+
+}
+.button1 {
+ 
+  display: inline-block;
+  width: 200px;
+  height: 300px;
+  vertical-align: top;
+}
+.htmlbutton {
+  display: block;
+  height: 35px;
+  width: 160px;
+  font-family: Arial;
+  font-weight: bold;
+  font-size: 19px;
+  border-radius: 8px;
+  margin-top: 37px;
+  border-style: none;
+}
+.cssbutton {
+  display: block;
+  height: 35px;
+  width: 160px;
+  font-family: Arial;
+  font-weight: bold;
+  font-size: 19px;
+  border-radius: 8px;
+  margin-top: 60px;
+  border-style: none;
+}
+.jsbutton {
+  display: block;
+  height: 35px;
+  width: 160px;
+  font-family: Arial;
+  font-weight: bold;
+  font-size: 19px;
+  border-radius: 8px;
+  margin-top: 58px;
+  border-style: none;
+}
+.about {
+  margin-top: 50px;
+  margin-left: 60px;
+  
+  
+}
+.about1 {
+  height: 30px;
+  width: 130px;
+  margin-left: 30px;
+  font-family: Arial;
+  font-weight: bold;
+  font-size: 15px;
+  border-style: solid;
+  background-color: transparent;
+  color: white;
+  border-color: white;
+  border-width: 1px;
+  border-radius: 6px;
+  
+}
